@@ -1,0 +1,9 @@
+sdg:
+  # 默认配置
+  default-host: localhost
+  default-db: test
+  default-user: root
+  default-ps: 123456
+logging:
+  level:
+    root:  error

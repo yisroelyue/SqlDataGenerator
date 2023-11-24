@@ -1,0 +1,11 @@
+Welcome to the SQLDataGenerator.  Commands end with ENTER.
+SQLDataGenerator [version:1.0.0]
+App Start Default Database Connection
+
+* Use CONNECT[-h:host][-d:db][-u:user][-p:ps] Command Select Host
+* Use ST Command show Tables ，Use UT[-i:index] Command Select Use Table
+* Use CONF[-i:index][-t:TYPE={personName,tel,sex,age..}][-r:regex] Commands To Add A Conf Item
+  Can Be Added Multiple Times To Select Types For Different Fields
+* Use GEN[-s:size]Command Generated Data,This Command Must Be Before UT
+
+* Enter HELP To Obtain More Commands

@@ -1,0 +1,36 @@
+1700634627058:hello
+1700634635511:echo 11
+1700634640666:exit
+1700637369859:connect --host localhost:3306 --db test --user root --ps 123456
+1700638844075:connect -h localhost -u root -p 123456
+1700638864185:show tables
+1700638874982:show-tables
+1700638884112:showTables
+1700638905741:showTables -d test
+1700639377163:showTables -d sys
+1700639599185:connect -h localhost -u root -p 123456
+1700639631111:connect -h localhost -d sys -u root -p 123456
+1700639661124:connect -h localhost -d  test -u  root -p 123456
+1700639747917:connect -h localhost -d sys -u root -p 123456
+1700639783758:showTables -d test
+1700646149813:connect -h localhost -d sys -u root -p 123456
+1700646157053:showTables
+1700647120788:connect -h localhost -d sys -u root -p 123456
+1700647128135:showTables
+1700648428962:connect -h localhost -d test -u root -p 123456
+1700648437098:showTables
+1700648503275:connect -h localhost -d test -u root -p 123456
+1700648511090:showTables
+1700648529128:use -i 1
+1700648544890:useTable -i 1
+1700649472424:connect -h localhost -d test -u root -p 123456
+1700649485217:showTables
+1700649497507:useTable -i 1
+1700650944760:connect -h localhost -d test -u root -p 123456
+1700650959570:useTable -i 0
+1700651018582:connect -h localhost -d test -u root -p 123456
+1700651040583:useTable -i 0
+1700651059093:useTable -i 1
+1700651154245:useTable -i 0
+1700651287279:connect -h localhost -d test -u root -p 123456
+1700651297930:useTable -i 0
